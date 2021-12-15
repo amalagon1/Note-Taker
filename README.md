@@ -14,7 +14,7 @@ In the notes page, click on the plus sign icon at the top of the page to create 
 
 <img src="/assets/images/screen_shot1.png" alt="main page">
 
-<img src="/assets/images/screen_shot2.png" alt="second page">
+<img src="/assets/images/screen-shot2.png" alt="second page">
 
 
 
@@ -29,4 +29,6 @@ This application is licensed under MIT
 
 ## Link to the app
 
-Github: github.com/amalagon1
+<a href="https://safe-plateau-25878.herokuapp.com/"> Deployed on Heroku</a>
+
+<a href="https://github.com/amalagon1/note-taker"> Github Repo</a>

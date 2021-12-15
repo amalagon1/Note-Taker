@@ -19,8 +19,10 @@ app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
 // Start the server
-app.listen(PORT, () => console.log(`Listening on http://localhost:${PORT}`));
+app.listen(PORT, () => {
+    console.log(`Listening on http://localhost:${PORT}`);
+});
 
 
 
-console.log("hello world!")
+// console.log("hello world!")
